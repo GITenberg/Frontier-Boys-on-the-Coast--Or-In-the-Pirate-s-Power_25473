@@ -1,0 +1,29 @@
+_repo: Frontier-Boys-on-the-Coast--Or-In-the-Pirate-s-Power_25473
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roosevelt, Wyn
+    birthdate: 1870
+    gutenberg_agent_id: '31364'
+    url: http://www.gutenberg.org/2009/agents/31364
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- California -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+title: Frontier Boys on the Coast; Or, In the Pirate's Power
+url: http://www.gutenberg.org/ebooks/25473
